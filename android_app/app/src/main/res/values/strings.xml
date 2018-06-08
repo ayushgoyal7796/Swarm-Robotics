@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Swarm_1</string>
+
+    <string name="first_b">Shapes</string>
+    <string name="second_b">Manual Operation</string>
+    <string name="third_b">Words</string>
+
+
+
+    <string name="first1_c">Line</string>
+    <string name="second1_c">Circle</string>
+    <string name="third1_c">Triangle</string>
+    <string name="fourth1_c">Rectangle</string>
+    <string name="fifth1_c">Hexagon</string>
+
+
+</resources>
